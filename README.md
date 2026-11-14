@@ -2,6 +2,8 @@
 
 첨부 레퍼런스의 히든카이스 스토어를 구현한 Next.js 포트폴리오 프로젝트입니다.
 
+운영 사이트: https://hidden-kice-store-ten.vercel.app · [구현 및 검증 결과](DELIVERY.md)
+
 ## 실행
 
 Node.js 20.9 이상에서 실행합니다.
